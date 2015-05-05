@@ -1,0 +1,10 @@
+C:\Users\ryan.floyd\Documents\Visual Studio 2013\Projects\Sprite\UnitTestProject1\bin\Debug\UnitTestProject1.dll
+C:\Users\ryan.floyd\Documents\Visual Studio 2013\Projects\Sprite\UnitTestProject1\bin\Debug\UnitTestProject1.pdb
+C:\Users\ryan.floyd\Documents\Visual Studio 2013\Projects\Sprite\UnitTestProject1\obj\Debug\UnitTestProject1.csprojResolveAssemblyReference.cache
+C:\Users\ryan.floyd\Documents\Visual Studio 2013\Projects\Sprite\UnitTestProject1\obj\Debug\UnitTestProject1.dll
+C:\Users\ryan.floyd\Documents\Visual Studio 2013\Projects\Sprite\UnitTestProject1\obj\Debug\UnitTestProject1.pdb
+C:\Users\ryan.floyd\Documents\Visual Studio 2013\Projects\Sprite\UnitTestProject1\bin\Debug\Sprite.exe
+C:\Users\ryan.floyd\Documents\Visual Studio 2013\Projects\Sprite\UnitTestProject1\bin\Debug\WriteableBitmapEx.Wpf.dll
+C:\Users\ryan.floyd\Documents\Visual Studio 2013\Projects\Sprite\UnitTestProject1\bin\Debug\Sprite.pdb
+C:\Users\ryan.floyd\Documents\Visual Studio 2013\Projects\Sprite\UnitTestProject1\bin\Debug\WriteableBitmapEx.Wpf.pdb
+C:\Users\ryan.floyd\Documents\Visual Studio 2013\Projects\Sprite\UnitTestProject1\bin\Debug\WriteableBitmapEx.Wpf.xml

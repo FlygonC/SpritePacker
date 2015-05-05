@@ -1,0 +1,10 @@
+Ryan's Sprite Packer
+
+Features:
+-Combine multiple sprite images into a single sheet
+-Preview full sprite sheet or individual animations.
+-Organise sprites in and into seperate animations.
+-Export Xml file to map sprites and animations.
+-Displays helpful information about animations and individual sprites(if using an alternate to Xml).
+
+Usage:
