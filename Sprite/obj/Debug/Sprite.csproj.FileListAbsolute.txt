@@ -18,3 +18,6 @@ C:\Users\ryan.floyd\Documents\Visual Studio 2013\Projects\Sprite\Sprite\obj\Debu
 C:\Users\ryan.floyd\Documents\Visual Studio 2013\Projects\Sprite\Sprite\obj\Debug\RenameDialog.baml
 C:\Users\ryan.floyd\Documents\Visual Studio 2013\Projects\Sprite\Sprite\obj\Debug\RenameDialog.g.cs
 C:\Users\ryan.floyd\Documents\Visual Studio 2013\Projects\Sprite\Sprite\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\ryan.floyd\Documents\GitHub\Sprite Packer\Sprite\bin\Debug\Sprite.exe.config
+C:\Users\ryan.floyd\Documents\GitHub\Sprite Packer\Sprite\obj\Debug\Sprite.exe
+C:\Users\ryan.floyd\Documents\GitHub\Sprite Packer\Sprite\obj\Debug\Sprite.pdb

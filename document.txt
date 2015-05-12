@@ -2,9 +2,32 @@ Ryan's Sprite Packer
 
 Features:
 -Combine multiple sprite images into a single sheet
--Preview full sprite sheet or individual animations.
+-Preview full sprite sheet or individual animations as you build the sheet.
 -Organise sprites in and into seperate animations.
 -Export Xml file to map sprites and animations.
--Displays helpful information about animations and individual sprites(if using an alternate to Xml).
+-Displays helpful information about animations and individual sprites.
 
 Usage:
+The Sprite packer window is divided into 4 sections: The Animation Manager(Top left), the Sprite Manager(Bottom left), the Preview window(center), and Information(right).
+
+	The Animation Manager:
+		Includes: Add button, Remove button, Move Up buuton, Rename buttom and List view of Animations.
+		Adding and Removing Animations: To add an animation to your sprite sheet, simple click the 'Add' button under 'Animation Manager.' To remove an animation, select it in the list view and click the 'Remove' button under 'Animation Manager.'
+		Organizing Animations: Animations can be organized by selecting them in the list view and clicking the 'Move Up' button under 'Animation Manager.' Animations can also be renamed by selecting them and clicking the 'Rename' button under 'Animation Manager'. 
+When Renaming animations, type the name you want in the dialog that pops up and then click 'Okay.'
+
+	The Sprite Manager:
+		Includes: Add button, Remove button, Move Up buuton, Rename buttom and List view of Sprites.
+		Adding and Removing Sprites: To add a sprite to your sprite sheet, simple click the 'Add' button under 'Sprite Manager.' To remove an sprite, select it in the list view and click the 'Remove' button under 'Sprite Manager.'
+When adding Sprites, select the file/files in the dialog that pops up then click the 'Open' button.
+		Organizing Sprites: Sprites can be organized by selecting them in the list view and clicking the 'Move Up' button under 'Sprite Manager.' Sprites can also be renamed by selecting them and clicking the 'Rename' button under 'Sprite Manager'. 
+When Renaming sprites, type the name you want in the dialog that pops up and then click 'Okay.'
+
+	Exporting:
+		Once your sprite sheet has been built, you can export it as a single .png by clicking on 'File' then 'Export Image.' An Xml Atlas of your sprite sheet can also be exported by clicking on 'File' then 'Export XML.'
+
+Simple Tutorial:
+Step 1: Select the animation in the animation list.
+Step 2: Click on 'Add' under 'Sprite Manager' and select the sprite or sprites to add.
+Step 3: Select the sprites in the sprite list and click the 'Move up' Button to order the sprites properly.
+Step 4: Click 'File' and then select 'Export image.'

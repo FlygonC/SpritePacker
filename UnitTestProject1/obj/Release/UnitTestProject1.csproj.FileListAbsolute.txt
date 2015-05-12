@@ -1,0 +1,10 @@
+C:\Users\ryan.floyd\Documents\GitHub\Sprite Packer\UnitTestProject1\bin\Release\UnitTestProject1.dll
+C:\Users\ryan.floyd\Documents\GitHub\Sprite Packer\UnitTestProject1\bin\Release\UnitTestProject1.pdb
+C:\Users\ryan.floyd\Documents\GitHub\Sprite Packer\UnitTestProject1\bin\Release\Sprite.exe
+C:\Users\ryan.floyd\Documents\GitHub\Sprite Packer\UnitTestProject1\bin\Release\WriteableBitmapEx.Wpf.dll
+C:\Users\ryan.floyd\Documents\GitHub\Sprite Packer\UnitTestProject1\bin\Release\Sprite.pdb
+C:\Users\ryan.floyd\Documents\GitHub\Sprite Packer\UnitTestProject1\bin\Release\WriteableBitmapEx.Wpf.pdb
+C:\Users\ryan.floyd\Documents\GitHub\Sprite Packer\UnitTestProject1\bin\Release\WriteableBitmapEx.Wpf.xml
+C:\Users\ryan.floyd\Documents\GitHub\Sprite Packer\UnitTestProject1\obj\Release\UnitTestProject1.csprojResolveAssemblyReference.cache
+C:\Users\ryan.floyd\Documents\GitHub\Sprite Packer\UnitTestProject1\obj\Release\UnitTestProject1.dll
+C:\Users\ryan.floyd\Documents\GitHub\Sprite Packer\UnitTestProject1\obj\Release\UnitTestProject1.pdb

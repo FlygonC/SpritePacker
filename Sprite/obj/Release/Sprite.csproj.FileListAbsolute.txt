@@ -17,3 +17,23 @@ C:\Users\ryan.floyd\Documents\Visual Studio 2013\Projects\Sprite\Sprite\obj\Rele
 C:\Users\ryan.floyd\Documents\Visual Studio 2013\Projects\Sprite\Sprite\obj\Release\Sprite.csproj.GenerateResource.Cache
 C:\Users\ryan.floyd\Documents\Visual Studio 2013\Projects\Sprite\Sprite\obj\Release\Sprite.exe
 C:\Users\ryan.floyd\Documents\Visual Studio 2013\Projects\Sprite\Sprite\obj\Release\Sprite.pdb
+C:\Users\ryan.floyd\Documents\GitHub\Sprite Packer\Sprite\bin\Release\Sprite.exe.config
+C:\Users\ryan.floyd\Documents\GitHub\Sprite Packer\Sprite\obj\Release\Sprite.exe
+C:\Users\ryan.floyd\Documents\GitHub\Sprite Packer\Sprite\obj\Release\Sprite.pdb
+C:\Users\ryan.floyd\Documents\GitHub\Sprite Packer\Sprite\bin\Release\Sprite.exe
+C:\Users\ryan.floyd\Documents\GitHub\Sprite Packer\Sprite\bin\Release\Sprite.pdb
+C:\Users\ryan.floyd\Documents\GitHub\Sprite Packer\Sprite\bin\Release\WriteableBitmapEx.Wpf.dll
+C:\Users\ryan.floyd\Documents\GitHub\Sprite Packer\Sprite\bin\Release\WriteableBitmapEx.Wpf.pdb
+C:\Users\ryan.floyd\Documents\GitHub\Sprite Packer\Sprite\bin\Release\WriteableBitmapEx.Wpf.xml
+C:\Users\ryan.floyd\Documents\GitHub\Sprite Packer\Sprite\obj\Release\Sprite.csprojResolveAssemblyReference.cache
+C:\Users\ryan.floyd\Documents\GitHub\Sprite Packer\Sprite\obj\Release\RenameDialog.baml
+C:\Users\ryan.floyd\Documents\GitHub\Sprite Packer\Sprite\obj\Release\MainWindow.g.cs
+C:\Users\ryan.floyd\Documents\GitHub\Sprite Packer\Sprite\obj\Release\RenameDialog.g.cs
+C:\Users\ryan.floyd\Documents\GitHub\Sprite Packer\Sprite\obj\Release\App.g.cs
+C:\Users\ryan.floyd\Documents\GitHub\Sprite Packer\Sprite\obj\Release\GeneratedInternalTypeHelper.g.cs
+C:\Users\ryan.floyd\Documents\GitHub\Sprite Packer\Sprite\obj\Release\Sprite_MarkupCompile.cache
+C:\Users\ryan.floyd\Documents\GitHub\Sprite Packer\Sprite\obj\Release\Sprite_MarkupCompile.lref
+C:\Users\ryan.floyd\Documents\GitHub\Sprite Packer\Sprite\obj\Release\MainWindow.baml
+C:\Users\ryan.floyd\Documents\GitHub\Sprite Packer\Sprite\obj\Release\Sprite.g.resources
+C:\Users\ryan.floyd\Documents\GitHub\Sprite Packer\Sprite\obj\Release\Sprite.Properties.Resources.resources
+C:\Users\ryan.floyd\Documents\GitHub\Sprite Packer\Sprite\obj\Release\Sprite.csproj.GenerateResource.Cache
